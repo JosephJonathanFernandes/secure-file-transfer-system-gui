@@ -27,6 +27,7 @@ Installation
 Clone the repository:
 
 git clone https://github.com/JosephJonathanFernandes/secure-file-transfer-system-gui.git
+
 cd secure-file-transfer-system-gui
 
 Install dependencies:
