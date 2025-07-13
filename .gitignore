@@ -1,0 +1,25 @@
+# Python compiled files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyInstaller build artifacts
+dist/
+build/
+*.spec
+
+# Windows executables
+*.exe
+
+# macOS files
+.DS_Store
+
+# IDE/project config
+.vscode/
+.idea/
+
+# Environment files
+.env
+.venv/
+venv/
