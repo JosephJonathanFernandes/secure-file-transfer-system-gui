@@ -110,7 +110,7 @@ This project is licensed under the MIT License. See the LICENSE file for details
 
 ## 👤 Author
 
-Developed by Your JJF and with help of GEN AI. Feel free to reach out for collaboration or questions.
+Developed by JJF and with help of GEN AI. Feel free to reach out for collaboration or questions.
 
 ## 🔍 Links
 
